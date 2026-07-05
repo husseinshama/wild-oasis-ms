@@ -8,7 +8,7 @@ A professional, full-featured internal management dashboard designed for a luxur
 
 ## 🚀 Tech Stack
 
-- **Frontend:**React.js (Vite)
+- **Frontend:** React.js (Vite)
 - **State Management & Data Fetching:** React Query (TanStack Query)
 - **Backend & Database:** Supabase (PostgreSQL)
 - **Styling:** Styled Components
