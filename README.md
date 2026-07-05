@@ -1,6 +1,6 @@
-# The Wild Oasis
 
-# 🏔️ The Wild Oasis - Hotel Management Dashboard
+
+# 🏔️ The Wild Oasis 
 
 A professional, full-featured internal management dashboard designed for a luxury boutique hotel and resort. This application allows hotel staff to efficiently manage cabins, bookings, guests, and check-in/check-out statuses, while providing real-time data analytics and performance statistics.
 
@@ -8,7 +8,7 @@ A professional, full-featured internal management dashboard designed for a luxur
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React.js (Create React App)
+- **Frontend:** React.js (Vite)
 - **State Management & Data Fetching:** React Query (TanStack Query)
 - **Backend & Database:** Supabase (PostgreSQL)
 - **Styling:** Styled Components
